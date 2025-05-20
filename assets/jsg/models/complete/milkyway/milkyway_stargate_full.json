@@ -1,6 +1,6 @@
 {
   "loader": "forge:obj",
-  "model": "jsg:models/complete/milkyway/milkyway_stargate_full.obj",
+  "model": "jsg:complete/milkyway/milkyway_stargate_full.obj",
   "textures": {
     "sometexturename": "jsg:path/to/some/texture"
   }
