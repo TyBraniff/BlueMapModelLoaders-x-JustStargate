@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "model": "jsg:models/complete/pegasus/pegasus_stargate_full.obj",
+  "flip_v": true,
+  "textures": {
+    "gatering7": "jsg:tesr/pegasus/gatering7",
+    "chevron": "jsg:tesr/pegasus/chevron",
+    "chevron_light_off": "jsg:tesr/pegasus/chevron_light_off",
+    "glyphs_off": "jsg:tesr/pegasus/glyphs_off"
+  }
+}

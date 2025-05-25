@@ -1,7 +1,10 @@
 {
   "loader": "forge:obj",
-  "model": "jsg:complete/milkyway/milkyway_stargate_full.obj",
+  "model": "jsg:models/complete/milkyway/milkyway_stargate_full.obj",
+  "flip_v": true,
   "textures": {
-    "sometexturename": "jsg:path/to/some/texture"
+    "gatering7": "jsg:tesr/milkyway/gatering7",
+    "chevron": "jsg:tesr/milkyway/chevron",
+    "chevron_light_off": "jsg:tesr/milkyway/chevron_light_off"
   }
 }

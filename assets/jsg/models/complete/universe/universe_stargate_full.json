@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "model": "jsg:models/complete/universe/universe_stargate_full.obj",
+  "flip_v": true,
+  "textures": {
+    "universe_gate": "jsg:tesr/universe/universe_gate",
+    "chevron_combined": "jsg:tesr/universe/chevron_combined"
+  }
+}
